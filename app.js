@@ -14,5 +14,7 @@ function logFive(){
    console.log(5);
 }
 
-
+function logSix(){
+   console.log(6);
+}
 
