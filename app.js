@@ -9,3 +9,7 @@ function logTwo(){
 function logThree(){
    console.log(3);
 }
+
+function logFour(){
+   console.log(4);
+}
