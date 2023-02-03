@@ -10,3 +10,9 @@ function logFour(){
    console.log(4);
 }
 
+function logFive(){
+   console.log(5);
+}
+
+
+
